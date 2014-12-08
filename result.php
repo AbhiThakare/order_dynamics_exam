@@ -1197,7 +1197,7 @@ $iitscore=0;
 		    <?php echo $result; ?>
 		  </strong></p>
 		  <p align="center">
-		    <input name="button" type="button" id="button" onClick="location.href='login.php?username=<?php echo $usernaame; ?>&amp;semester=<?php echo $semester; ?>'" value="Goback">
+		    <input name="button" type="button" id="button" onClick="location.href='login.php'" value="Goback">
 		  </p>
 		</div></td>
 <td>

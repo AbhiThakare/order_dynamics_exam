@@ -50,7 +50,7 @@ if(ckvl[0]!="start"){
 var errmsg="Can't take exam again !"
 location.href="examlist.php?errormessage=errmsg"
 }
-var iCnt=10;
+var iCnt=60;
 var tmr=null;
 	if($(".timeleft").length){
 		var IntQA	=	setInterval(function() {
